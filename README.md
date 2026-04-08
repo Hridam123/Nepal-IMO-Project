@@ -15,7 +15,7 @@ The results of this project led to the publication of 15 page report, which cond
   
 - Computational Reproducibility: To develop a modular Python codebase such that the future data can be easily embedded ensuring that the study evolves with every data and serves as a living diagnostic tool.
 
-## **Key Features and Methodology**
+## **Highlights and Methodology*
 
 To make sure that the statistics of the project were sound, the following workflow was implemented:
 
@@ -28,9 +28,9 @@ To make sure that the statistics of the project were sound, the following workfl
 - Visual Representation: Developed series of statistical plots( Bargraphs, Subplots, Scatter plots and line graphs) in order to analyze performance data by visualization.
 
 ## **Technical Stack**
-Languages: Python 3.13
+Languages: Python 3.12
 
-Libraries: Pandas and Matplotlib 
+Libraries: Pandas(for data documentation and refinement) and Matplotlib(for visualization of data using plots)
 
 Documentation engineered in LaTex
 
