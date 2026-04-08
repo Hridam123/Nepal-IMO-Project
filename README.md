@@ -34,7 +34,7 @@ Libraries: Pandas and Matplotlib
 
 Documentation engineered in LaTex
 
-Project Impact and Motivation:
+## **Project Impact and Motivation:**
 I chose this project because I being interested in Math Olympiads saw that while Nepal is having steady growth at International Math Olympiads, there were no data-driven evaluation for the selection system. So, I decided to do this project as a self learning initiative which allowed me to have experience with data storytelling while also providing a diagnostic tool for the Olympiad educators.
 
 The resulting 15 page report from this project contains detailed analyis from which several key insights were drawn
