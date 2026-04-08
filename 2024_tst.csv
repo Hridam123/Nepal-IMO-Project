@@ -1,0 +1,37 @@
+year,stage,reg_no,name,district,p1,p2,p3,p4,p5,total,max_per_problem,max_total,imo_team
+2080,TST,2079-IMO-0005,Kritesh Dhakal,Kathmandu,7,6,1,0,1,15,7,35,YES
+2080,TST,2079-IMO-1373,Rahul Bhujel,Okhaldhunga,7,5,0,2,0,14,7,35,YES
+2080,TST,2079-IMO-1058,Shreyash Sharma Bastola,Kathmandu,7,4,0,3,0,14,7,35,YES
+2080,TST,2079-IMO-0088,Drone Chaudhary,Bara,7,2,0,2,2,13,7,35,YES
+2080,TST,2080-IMO-2476,Sampanna Bhandari,Lalitpur,7,5,0,1,0,13,7,35,YES
+2080,TST,2079-IMO-1173,Saugat Dhakal,Kathmandu,7,6,0,0,0,13,7,35,YES
+2080,TST,2080-IMO-2033,Apurba Subedi,Kathmandu,7,3,0,2,0,12,7,35,NO
+2080,TST,2080-IMO-2554,Nitin Ranjitkar,Kathmandu,7,3,0,2,0,12,7,35,NO
+2080,TST,2079-IMO-0805,Muhammad Shahid Raain,Dhanusha,7,0,2,2,0,11,7,35,NO
+2080,TST,2079-IMO-1105,Sebish Niraula,Jhapa,7,2,0,2,0,11,7,35,NO
+2080,TST,2079-IMO-1642,Aayam Acharya,Lalitpur,7,0,0,3,0,10,7,35,NO
+2080,TST,2079-IMO-1407,Aayan Shah,Lalitpur,5,3,0,2,0,10,7,35,NO
+2080,TST,2080-IMO-2004,Basu Dev Karki,Kathmandu,7,0,0,2,0,9,7,35,NO
+2080,TST,2079-IMO-1415,David Thapa,Kathmandu,7,0,1,1,0,9,7,35,NO
+2080,TST,2080-IMO-0176,Naman Maheshwari,Morang,7,0,0,2,0,9,7,35,NO
+2080,TST,2080-IMO-2482,Shraddha Joshi,Kathmandu,6,0,0,2,1,9,7,35,NO
+2080,TST,2080-IMO-2189,Vikash Pokharel,Argakhanchi,7,0,0,2,0,9,7,35,NO
+2080,TST,2080-IMO-0205,Aayush Mainali,Morang,6,0,1,1,0,8,7,35,NO
+2080,TST,2080-IMO-1607,Aayush Parajuli,Kaski,7,0,1,0,0,8,7,35,NO
+2080,TST,2080-IMO-2304,Bastav Khatiwada,Sunsari,7,0,0,1,0,8,7,35,NO
+2080,TST,2080-IMO-1593,Jenish Malla,Kaski,7,0,0,1,0,8,7,35,NO
+2080,TST,2080-IMO-0370,John Prakash Magar,Sunsari,6,0,0,2,0,8,7,35,NO
+2080,TST,2080-IMO-0773,Mission Joshi,Bardiya,7,0,0,0,1,8,7,35,NO
+2080,TST,2080-IMO-1186,Aman Paudel,Baglung,6,0,0,1,0,7,7,35,NO
+2080,TST,2080-IMO-1460,Bidhan Timilsena,Kapilvastu,5,0,0,2,0,7,7,35,NO
+2080,TST,2080-IMO-2091,Riwaj Adhikari,Nawalpur,6,0,0,1,0,7,7,35,NO
+2080,TST,2080-IMO-2360,Umanga Baral,Kaski,4,1,0,2,0,7,7,35,NO
+2080,TST,2079-IMO-1202,Aayush Thagunna,Darchula,4,0,0,1,0,5,7,35,NO
+2080,TST,2080-IMO-2337,Ajay Kumar Pasi,Kaski,4,0,0,1,0,5,7,35,NO
+2080,TST,2080-IMO-1582,Sushanta Karki,Kaski,2,0,0,1,1,4,7,35,NO
+2080,TST,2080-IMO-2267,Abishek Kushwaha,Sarlahi,2,0,0,1,0,3,7,35,NO
+2080,TST,2080-IMO-1578,Sudesh Acharya,Kaski,1,1,0,1,0,3,7,35,NO
+2080,TST,2080-IMO-1174,Ujjwal Sunar,Chitawan,0,0,0,2,1,3,7,35,NO
+2080,TST,2079-IMO-0858,Sagar Basyal,Parbat,2,0,0,0,0,2,7,35,NO
+2080,TST,2080-IMO-0856,Avinash Belbase,Rupandehi,0,0,0,1,0,1,7,35,NO
+2080,TST,2079-IMO-1473,Sama Malla,Kathmandu,1,0,0,0,0,1,7,35,NO
